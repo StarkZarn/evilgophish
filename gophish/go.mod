@@ -28,7 +28,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/twilio/twilio-go v0.26.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f
